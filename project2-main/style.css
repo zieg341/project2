@@ -498,7 +498,7 @@ header {
 
 .hero-section h1 {
     text-align: center;
-    color: #4b3832; /* Dark brown for headlines */
+    color: #4b3832; 
     margin-bottom: 40px;
     font-size: 3em;
     font-weight: 700;
@@ -506,17 +506,16 @@ header {
 
 .hero-item {
     margin-bottom: 40px;
+    text-align: center;
 }
 
 .hero-item h2 {
-    text-align: center;
     font-size: 1.8em;
     color: #4b3832;
     margin-bottom: 20px;
 }
 
 .hero-item p {
-    text-align: center;
     font-size: 1.2em;
     color: #555;
     line-height: 1.8;
