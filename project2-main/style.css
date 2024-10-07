@@ -509,12 +509,14 @@ header {
 }
 
 .hero-item h2 {
+    text-align: center;
     font-size: 1.8em;
     color: #4b3832;
     margin-bottom: 20px;
 }
 
 .hero-item p {
+    text-align: center;
     font-size: 1.2em;
     color: #555;
     line-height: 1.8;
